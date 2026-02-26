@@ -1,7 +1,9 @@
 ---
 publish: true
+title: Home
+description: Alina's GURPS Traveller Campaign Home Page
 created: 2026-02-26T18:17:35.595+04:00
-modified: 2026-02-27T00:20:04.760+04:00
+modified: 2026-02-27T01:00:05.763+04:00
 cssclasses: ""
 ---
 
