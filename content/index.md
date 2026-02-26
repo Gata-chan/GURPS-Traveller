@@ -3,7 +3,7 @@ publish: true
 title: Home
 description: Alina's GURPS Traveller Campaign Home Page
 created: 2026-02-26T18:17:35.595+04:00
-modified: 2026-02-27T03:18:19.847+04:00
+modified: 2026-02-27T03:21:41.235+04:00
 cssclasses: ""
 ---
 
@@ -27,6 +27,7 @@ cssclasses: ""
 ## Атлас
 > [!NOTE]+ **Карта Известного Космоса**
 > 
-<iframe src="https://travellermap.com/?p=8.06!-105.26!5.5&milieu=IW" width="800px" height="800px"></iframe>
+> 
+> <iframe src="https://travellermap.com/?p=8.06!-105.26!5.5&milieu=IW" width="800px" height="800px"></iframe>
 
->
+> Интерактивная Карта
