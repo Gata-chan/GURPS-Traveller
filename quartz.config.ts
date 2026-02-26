@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "GURPS Traveller",
-    pageTitleSuffix: "| Alina's Campaign Wiki",
+    pageTitleSuffix: " | Alina's Campaign Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
