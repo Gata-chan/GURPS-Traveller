@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "GURPS Traveller",
+    pageTitleSuffix: "| Alina's Campaign Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
