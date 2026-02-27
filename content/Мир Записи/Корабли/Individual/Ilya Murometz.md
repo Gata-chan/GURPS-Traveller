@@ -1,31 +1,31 @@
 ---
 publish: true
 created: 2026-02-05T15:11:00.907+04:00
-modified: 2026-02-27T01:54:48.878+04:00
+modified: 2026-02-27T04:01:51.808+04:00
 cssclasses: ""
 ---
 
-
 # Statistics
-Streamlined  
+* Streamlined  
 
-Artificial Gravity and Gravitic Compensators ($2M) 
+* Artificial Gravity and Gravitic Compensators ($2M) 
 
-Fuel Processers ($300k): One Fuel Tank per 2 hrs (Full tank in 6 hours)
+* Fuel Processers ($300k): One Fuel Tank per 2 hrs (Full tank in 6 hours)
 
-Shielded Cargo: 25.45 tons ($200K)
+* Shielded Cargo: 25.45 tons ($200K)
 
-Mass-market ship: 0.75 cost
+* Mass-market ship: 0.75 cost
 
-Fair Condition: -1 HT, -1 Repair Rolls, 0.4 cost
+* Fair Condition: -1 HT, -1 Repair Rolls, 0.4 cost
 
-| TL  | Name                                | dST/HP | Hnd/SR | HT  | Move   | LWt.      | SM  | Occ | dDR     | Range | Cost $ | Load        |
-| --- | ----------------------------------- | ------ | ------ | --- | ------ | --------- | --- | --- | ------- | ----- | ------ | ----------- |
-| 10  | Hero-Class Private Merchant (Space) | 70     | -1/5   | 12  | 1.5G/c | 1000 tons | +8  | 24  | 10/10/5 | -     | 14.4M  | 249.45 tons |
-
-| TL  | Name                              | dST/HP | Hnd/SR | HT  | Speed    | LWt.      | Move (yards per sec) | SM  | Occ | dDR     | Cost $ | Load     |
-| --- | --------------------------------- | ------ | ------ | --- | -------- | --------- | -------------------- | --- | --- | ------- | ------ | -------- |
-| 10  | Hero-Class Private Merchant (Air) | 70     | -1/5   | 12  | 3100 mph | 1000 tons | 150/1550             | +8  | 24  | 10/10/5 | 14.4M  | 249 tons |
+> [!attention]+ **Vehicle Stats**
+> | TL  | Name                                | dST/HP | Hnd/SR | HT  | Move   | LWt.      | SM  | Occ | dDR     | Range | Cost $ | Load        |
+> | --- | ----------------------------------- | ------ | ------ | --- | ------ | --------- | --- | --- | ------- | ----- | ------ | ----------- |
+> | 10  | Hero-Class Private Merchant (Space) | 70     | -1/5   | 12  | 1.5G/c | 1000 tons | +8  | 24  | 10/10/5 | -     | 14.4M  | 249.45 tons |
+> 
+> | TL  | Name                              | dST/HP | Hnd/SR | HT  | Speed    | LWt.      | Move (yards per sec) | SM  | Occ | dDR     | Cost $ | Load     |
+> | --- | --------------------------------- | ------ | ------ | --- | -------- | --------- | -------------------- | --- | --- | ------- | ------ | -------- |
+> | 10  | Hero-Class Private Merchant (Air) | 70     | -1/5   | 12  | 3100 mph | 1000 tons | 150/1550             | +8  | 24  | 10/10/5 | 14.4M  | 249 tons |
 
 # Class
 ## Description
@@ -44,47 +44,54 @@ Fair Condition: -1 HT, -1 Repair Rolls, 0.4 cost
 > 
 > *Ironically, even the [[Imperial Navy]] has adopted Siigiizuni (“heroic person”) as a designation for Hero-class ships operating under [[Мир Записи/Фракции/Межзвёздные Государства/Terran Confederation\|Terran]] command.*
 
-## Floor Plans
-![[Attachments/Pasted image 20260226033309.png]]
+
+> [!tldr]- **Deck Floor Plans**
+> ![[Attachments/Pasted image 20260226033309.png|500]]
+> 
 ## Statistics
-Streamlined
-Artificial Gravity and Gravitic Compensators ($2M)
-Fuel Processers ($300k): One Fuel Tank per 2 hrs (Full tank in 6 hrs)
-Mass-market ship: 0.75 cost
+* Streamlined
 
-| TL  | Name                                | dST/HP | Hnd/SR | HT  | Move   | LWt.      | SM  | Occ | dDR     | Range | Cost $ | Load       |
-| --- | ----------------------------------- | ------ | ------ | --- | ------ | --------- | --- | --- | ------- | ----- | ------ | ---------- |
-| 10  | Hero-Class Private Merchant (Space) | 70     | -1/5   | 13  | 1.5G/c | 1000 tons | +8  | 24  | 10/10/5 | -     | 34M    | 274.9 tons |
+* Artificial Gravity and Gravitic Compensators ($2M)
 
-| TL  | Name                              | dST/HP | Hnd/SR | HT  | Speed    | LWt.      | Move (yards per sec) | SM  | Occ | dDR     | Cost $ | Load       |
-| --- | --------------------------------- | ------ | ------ | --- | -------- | --------- | -------------------- | --- | --- | ------- | ------ | ---------- |
-| 10  | Hero-Class Private Merchant (Air) | 70     | -1/5   | 13  | 3100 mph | 1000 tons | 150/1550             | +8  | 24  | 10/10/5 | 34M    | 274.9 tons |
+* Fuel Processers ($300k): One Fuel Tank per 2 hrs (Full tank in 6 hrs)
 
-### Front hull
+* Mass-market ship: 0.75 cost
 
-|              | 1                                 | 2                                                                         | 3                                                                                                                   | 4                           | 5                        | 6          | 7          |
-| ------------ | --------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------ | ---------- | ---------- |
-| System       | Armor, Advanced Metallic Laminate | Control Room [Core]                                                       | Habitat                                                                                                             | Habitat                     | Habitat                  | Cargo Hold | Cargo Hold |
-| Cost $       | 2M                                | 2M                                                                        | 1M                                                                                                                  | 1M                          | 1M                       | -          | -          |
-| Notes        | 10 dDR                            | Control Stations: 3<br>Comm/Sensor: 7<br>Complexity: 8                    | Cabins: 6<br>Hibernation chamber (0.25): 14<br>Sick Bay (1): 1<br>Office (1): 1<br>Steerage Cargo(1): 0.5 (2.5 ton) | Cabins: 6<br>1 Luxury Cabin | Cabins: 6                | 50 Tons    | 50 Tons    |
-| Repair Skill | Mechanic                          | Electronics Repair (Computers), Computer<br>Programming, and Electrician. | Mechanic (Life Support).                                                                                            | Mechanic (Life Support).    | Mechanic (Life Support). | Mechanic   | Mechanic   |
+> [!attention]- **Vehicle Stats**
+> | TL  | Name                                | dST/HP | Hnd/SR | HT  | Move   | LWt.      | SM  | Occ | dDR     | Range | Cost $ | Load       |
+> | --- | ----------------------------------- | ------ | ------ | --- | ------ | --------- | --- | --- | ------- | ----- | ------ | ---------- |
+> | 10  | Hero-Class Private Merchant (Space) | 70     | -1/5   | 13  | 1.5G/c | 1000 tons | +8  | 24  | 10/10/5 | -     | 34M    | 274.9 tons |
+> 
+> | TL  | Name                              | dST/HP | Hnd/SR | HT  | Speed    | LWt.      | Move (yards per sec) | SM  | Occ | dDR     | Cost $ | Load       |
+> | --- | --------------------------------- | ------ | ------ | --- | -------- | --------- | -------------------- | --- | --- | ------- | ------ | ---------- |
+> | 10  | Hero-Class Private Merchant (Air) | 70     | -1/5   | 13  | 3100 mph | 1000 tons | 150/1550             | +8  | 24  | 10/10/5 | 34M    | 274.9 tons |
+### Modules
 
-### Middle hull
+> [!NOTE]- **Front**
+> 
+> |              | 1                                 | 2                                                                         | 3                                                                                                                   | 4                           | 5                        | 6          | 7          |
+> | ------------ | --------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------ | ---------- | ---------- |
+> | System       | Armor, Advanced Metallic Laminate | Control Room [Core]                                                       | Habitat                                                                                                             | Habitat                     | Habitat                  | Cargo Hold | Cargo Hold |
+> | Cost $       | 2M                                | 2M                                                                        | 1M                                                                                                                  | 1M                          | 1M                       | -          | -          |
+> | Notes        | 10 dDR                            | Control Stations: 3<br>Comm/Sensor: 7<br>Complexity: 8                    | Cabins: 6<br>Hibernation chamber (0.25): 14<br>Sick Bay (1): 1<br>Office (1): 1<br>Steerage Cargo(1): 0.5 (2.5 ton) | Cabins: 6<br>1 Luxury Cabin | Cabins: 6                | 50 Tons    | 50 Tons    |
+> | Repair Skill | Mechanic                          | Electronics Repair (Computers), Computer<br>Programming, and Electrician. | Mechanic (Life Support).                                                                                            | Mechanic (Life Support).    | Mechanic (Life Support). | Mechanic   | Mechanic   |
 
-|              | 1                                 | 2            | 3            | 4            | 5 [!]                                 | 6 [!]                                 |
-| ------------ | --------------------------------- | ------------ | ------------ | ------------ | ------------------------------------- | ------------------------------------- |
-| System       | Armor, Advanced Metallic Laminate | Fuel Tank    | Fuel Tank    | Fuel Tank    | Weapons, Medium Battery (Turret)      | Weapons, Medium Battery (Turret)      |
-| Cost $       | 2M                                | 300K         | 300K         | 300K         | 0                                     | 0                                     |
-| Notes        | 10 dDR                            | 50 fuel tons | 50 Fuel tons | 50 Fuel tons | 3 Uninstalled, 45 Tons of cargo space | 3 Uninstalled, 45 Tons of cargo space |
-| Repair Skill | Mechanic                          | Mechanic     | Mechanic     | Mechanic     | Armoury (Heavy Weapons).              | Armoury (Heavy Weapons).              |
+> [!NOTE]- **Middle**
+> 
+>|              | 1                                 | 2            | 3            | 4            | 5 [!]                                 | 6 [!]                                 |
+>| ------------ | --------------------------------- | ------------ | ------------ | ------------ | ------------------------------------- | ------------------------------------- |
+> | System       | Armor, Advanced Metallic Laminate | Fuel Tank    | Fuel Tank    | Fuel Tank    | Weapons, Medium Battery (Turret)      | Weapons, Medium Battery (Turret)      |
+> | Cost $       | 2M                                | 300K         | 300K         | 300K         | 0                                     | 0                                     |
+> | Notes        | 10 dDR                            | 50 fuel tons | 50 Fuel tons | 50 Fuel tons | 3 Uninstalled, 45 Tons of cargo space | 3 Uninstalled, 45 Tons of cargo space |
+> | Repair Skill | Mechanic                          | Mechanic     | Mechanic     | Mechanic     | Armoury (Heavy Weapons).              | Armoury (Heavy Weapons).              |
 
+> [!NOTE]- **Back**
+> 
+> |              | 1 [!]                                                         | 2           | 3                      | 4 [!]                              | 5                                            | 6 [!]                                                                          | 7          |
+> | ------------ | ------------------------------------------------------------- | ----------- | ---------------------- | ---------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------ | ---------- |
+> | System       | Armor, Advanced Metallic Laminate/Standard Reactionless Drive | Engine Room | Fusion Reactor         | Standard Reactionless Drive [Core] | Hangar Bay                                   | Jump-2 Drive                                                                   | Cargo Hold |
+> | Cost $       | 1M / 0.5M                                                     | 300K        | 10M                    | 1M                                 | 100K                                         | 20M                                                                            | -          |
+> | Notes        | 5 dDR / 0.5G Acceleration                                     | 1 Workspace | 2 Power Points Produce | 1G Acceleration                    | Capacity 30 tons<br><br>Launch Rate: 20 tons | Each jump requires (number of parsecs jumped x 1.5) Fuel Tank systems of fuel. | 50 Tons    |
+> | Repair Skill | Mechanic                                                      | Mechanic    | Mechanic               | Mechanic                           | Mechanic                                     | Mechanic                                                                       | Mechanic   |
 
-### Rear hull
-
-|              | 1 [!]                                                         | 2           | 3                      | 4 [!]                              | 5                                            | 6 [!]                                                                          | 7          |
-| ------------ | ------------------------------------------------------------- | ----------- | ---------------------- | ---------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------ | ---------- |
-| System       | Armor, Advanced Metallic Laminate/Standard Reactionless Drive | Engine Room | Fusion Reactor         | Standard Reactionless Drive [Core] | Hangar Bay                                   | Jump-2 Drive                                                                   | Cargo Hold |
-| Cost $       | 1M / 0.5M                                                     | 300K        | 10M                    | 1M                                 | 100K                                         | 20M                                                                            | -          |
-| Notes        | 5 dDR / 0.5G Acceleration                                     | 1 Workspace | 2 Power Points Produce | 1G Acceleration                    | Capacity 30 tons<br><br>Launch Rate: 20 tons | Each jump requires (number of parsecs jumped x 1.5) Fuel Tank systems of fuel. | 50 Tons    |
-| Repair Skill | Mechanic                                                      | Mechanic    | Mechanic               | Mechanic                           | Mechanic                                     | Mechanic                                                                       | Mechanic   |
 
