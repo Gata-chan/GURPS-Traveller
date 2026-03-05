@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-03-01T03:54:37.836+04:00
-modified: 2026-03-01T14:44:03.115+04:00
+modified: 2026-03-02T14:03:24.021+04:00
 cssclasses: ""
 ---
 
-## The Planet
+## Prometheus, the planet
 
 | Allegiance | Type   | Diameter | Gravity | Atmosphere | Hydro | Climate  | RVM | AFF | Population | Port | Government  | CR  | TL  | Trade | WTN |
 | ---------- | ------ | -------- | ------- | ---------- | ----- | -------- | --- | --- | ---------- | ---- | ----------- | --- | --- | ----- | --- |
@@ -18,3 +18,10 @@ cssclasses: ""
 ## Prospero's Dream
 ![[Attachments/Pasted image 20260301040612.png|400]]
 Prospero’s Dream is a massive space station with a population of over 80 thousand. It’s haphazard, disorganized, overcrowded, and teeming with hustlers and criminals of all stripes. The Dream is operated by the [[Golyanovo II Bratva]] (AKA the Novos, or “Yandee’s People”), a powerful criminal syndicate headed by a meticulous guy named [[Yandee]], backed by the elite [[Tempest Mercenary Company]]. Together they sell the lucrative drug Sycorax, which is supplied by [[The Solarian Church]] and distributed by Teamsters Local 32819L.
+
+## Factions
+* Prometheus' Independent Government
+* [[Мир Записи/Фракции/Корпорации/Asteroidenbergwerke GmbH]]
+* [[Golyanovo II Bratva]]
+* [[Terran Confederation Navy]]
+* [[Мир Записи/Фракции/Корпорации/Behmer Aktiengesellschaft]]
