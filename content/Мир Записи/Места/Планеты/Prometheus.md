@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-01T03:54:37.836+04:00
-modified: 2026-03-02T14:03:24.021+04:00
+modified: 2026-03-12T17:09:53.751+04:00
 cssclasses: ""
 ---
 
@@ -16,6 +16,9 @@ cssclasses: ""
 > and out from 11 to 36 AU over the course of 80 years, Alpha Centauri B is a spectacular sight, far brighter than Luna in Terra’s sky and packed into a smaller disk. Despite its impressive appearance, it is too distant to affect Prometheus’ climate in a way noticeable without instruments. Naturally, B draws a lot of attention from tourists, but a tradition has grown up that an immigrant isn’t really a Promethean until he’s seen Proxima with the naked eye. Dim and far more distant, Proxima is only just visible near the Pleiades. The newcomer’s friends will take him out one night specifically to take a look, and binoculars are available if needed (though the guest of honor can expect ribbing if they have to be used)
 
 ## Prospero's Dream
+
+^5f6c22
+
 ![[Attachments/Pasted image 20260301040612.png|400]]
 Prospero’s Dream is a massive space station with a population of over 80 thousand. It’s haphazard, disorganized, overcrowded, and teeming with hustlers and criminals of all stripes. The Dream is operated by the [[Golyanovo II Bratva]] (AKA the Novos, or “Yandee’s People”), a powerful criminal syndicate headed by a meticulous guy named [[Yandee]], backed by the elite [[Tempest Mercenary Company]]. Together they sell the lucrative drug Sycorax, which is supplied by [[The Solarian Church]] and distributed by Teamsters Local 32819L.
 
